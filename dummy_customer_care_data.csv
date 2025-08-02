@@ -1,0 +1,501 @@
+DATE,TIME,CALLER ALIAS,CAR REGISTRATION,REASON FOR CALL,RESPONSE GIVEN/CONCLUSION,LOCATION
+29/01/2023,06:26:18,Caller 65,KpV 8750,Complaint,Resolved,Kevinberg
+13/12/2023,17:18:30,Caller 15,KLi 3008,Booking,Pending,Kristinshire
+30/01/2023,21:56:46,Caller 51,KOD 6345,General Question,Pending,Haileyborough
+01/04/2024,11:58:29,Caller 3,KRc 9784,Complaint,Escalated,South Karen
+02/02/2024,15:22:37,Caller 46,KjN 7383,General Question,Pending,Lake Matthewfurt
+16/05/2023,15:10:48,Caller 75,Kub 2197,Booking,Escalated,Normanberg
+09/05/2023,09:48:36,Caller 38,KTN 8596,Payment Issue,Resolved,Jamestown
+22/06/2023,08:33:49,Caller 1,Kkh 8175,Complaint,Pending,West Leslieburgh
+23/01/2024,19:37:11,Caller 77,Ktq 4695,Complaint,Pending,Kellyside
+04/06/2023,19:23:38,Caller 73,Kli 7913,General Question,No Action Needed,Jonesstad
+27/07/2023,20:38:59,Caller 24,KxY 9357,Booking,Resolved,Port Ana
+31/07/2023,03:59:30,Caller 35,Kol 5599,General Question,Resolved,Nicolestad
+15/02/2024,15:38:48,Caller 6,KHH 2286,Car Wash Inquiry,Resolved,Danielshire
+18/01/2024,20:29:37,Caller 40,KUh 0687,Car Wash Inquiry,Escalated,Ayalamouth
+09/02/2023,06:47:28,Caller 38,Kxa 5848,Payment Issue,Resolved,Mcclainbury
+14/05/2024,15:26:17,Caller 19,KEJ 7137,Booking,Escalated,Burtonchester
+08/01/2024,00:52:12,Caller 44,KHd 9481,Booking,Escalated,West Williamton
+30/01/2024,03:08:50,Caller 18,KGH 6236,Booking,Resolved,Sloanborough
+05/03/2023,04:51:54,Caller 64,KUJ 3845,Payment Issue,No Action Needed,South Margaret
+02/11/2023,00:57:59,Caller 66,Ktd 6560,Complaint,Escalated,Williamchester
+20/01/2023,12:00:51,Caller 8,KqS 9729,Booking,Escalated,Christopherport
+07/11/2023,04:02:57,Caller 26,Ken 6853,Payment Issue,No Action Needed,New Deannaport
+14/08/2023,20:46:32,Caller 29,KDm 7589,Car Wash Inquiry,Pending,East David
+01/05/2024,01:19:03,Caller 35,KTS 7947,Car Wash Inquiry,Resolved,East Samuelshire
+27/01/2023,01:52:44,Caller 8,KRI 1483,Payment Issue,No Action Needed,Andersonburgh
+13/05/2024,00:53:03,Caller 7,KlK 0345,General Question,Escalated,Port Erin
+08/09/2023,16:29:36,Caller 72,KGe 4020,Payment Issue,Pending,Gutierrezmouth
+02/04/2023,15:30:46,Caller 20,KFW 2999,Booking,Escalated,Edwardsstad
+10/07/2023,04:58:16,Caller 18,KsN 9610,General Question,Escalated,Josephside
+21/12/2023,01:27:37,Caller 58,KkI 2925,Car Wash Inquiry,Escalated,North Geoffreychester
+26/03/2024,15:50:47,Caller 72,Kml 2898,Booking,No Action Needed,Jeremyview
+30/01/2024,04:10:05,Caller 25,KmU 5957,General Question,Pending,New Amy
+14/09/2023,04:55:14,Caller 3,KRe 1904,Complaint,Resolved,Thompsonport
+24/03/2024,13:23:40,Caller 57,Kjz 5894,Payment Issue,Resolved,Brittneyland
+27/01/2023,12:13:10,Caller 74,KzR 7724,Car Wash Inquiry,No Action Needed,Port Jeremiah
+15/12/2023,22:50:30,Caller 4,KPp 6798,Car Wash Inquiry,Resolved,Ericville
+07/04/2024,21:29:30,Caller 80,KVD 5433,Car Wash Inquiry,Pending,South Dana
+12/11/2023,05:46:53,Caller 17,KRf 1855,Complaint,Resolved,Ryanberg
+13/03/2024,01:02:01,Caller 45,Kyy 0699,Car Wash Inquiry,Escalated,Justinstad
+18/10/2023,05:17:00,Caller 44,KVj 4564,Booking,Pending,Lake Jenniferfort
+07/07/2023,17:44:13,Caller 71,KPm 8801,General Question,Resolved,Lake Carlos
+27/07/2023,09:45:53,Caller 16,KPk 6103,General Question,Escalated,South Jenniferfurt
+25/04/2024,08:57:45,Caller 1,KFA 5708,Payment Issue,Pending,Morganchester
+04/02/2023,19:15:22,Caller 54,KAr 8836,Complaint,Pending,East Ashley
+27/02/2024,01:02:49,Caller 45,KPc 1410,Booking,Resolved,Nathanside
+13/01/2024,19:07:55,Caller 74,KJf 4473,General Question,Escalated,North Angelica
+10/05/2024,12:49:18,Caller 3,KVJ 5144,Booking,Pending,Williamschester
+26/05/2023,20:19:11,Caller 66,KvP 8254,General Question,No Action Needed,East Michael
+17/09/2023,18:34:41,Caller 40,KkN 9528,Complaint,Escalated,East Janiceland
+09/12/2023,08:34:38,Caller 53,KUj 6018,Booking,Resolved,West Jamesport
+01/03/2024,20:14:19,Caller 27,KDU 9406,Payment Issue,Resolved,Moorefurt
+30/07/2023,10:29:39,Caller 74,KxI 2757,Complaint,No Action Needed,East Michaelton
+24/08/2023,10:30:57,Caller 54,KAR 9183,Payment Issue,No Action Needed,West John
+26/04/2024,18:49:31,Caller 43,KSA 2127,Car Wash Inquiry,Escalated,New Laura
+13/01/2023,16:15:59,Caller 22,KpH 1525,Complaint,Escalated,East Morganbury
+08/06/2023,13:47:20,Caller 76,KOc 0437,Booking,Pending,South Hectorstad
+19/05/2023,02:02:23,Caller 77,KLA 8949,Complaint,Escalated,Rosefurt
+14/05/2023,02:12:12,Caller 60,KTe 8750,Payment Issue,Escalated,New Tommyland
+21/09/2023,14:50:00,Caller 42,KTU 0867,Payment Issue,Resolved,West Robertberg
+20/11/2023,08:11:02,Caller 30,KAb 3729,Payment Issue,No Action Needed,South Cynthia
+29/12/2023,05:21:39,Caller 75,KTf 1556,Payment Issue,Resolved,Courtneybury
+27/11/2023,06:26:35,Caller 24,KgC 9613,Complaint,Escalated,Friedmanland
+03/12/2023,16:58:29,Caller 9,KbI 4211,Car Wash Inquiry,Escalated,South Markton
+20/06/2023,20:39:22,Caller 34,Kgj 9332,Complaint,Resolved,Paulafurt
+30/12/2023,15:57:00,Caller 77,KVa 8692,Complaint,Pending,Port Timothy
+13/04/2024,09:26:04,Caller 63,Kvn 8737,Booking,Pending,New Katherinetown
+12/01/2023,19:03:14,Caller 50,KsN 2517,Car Wash Inquiry,Pending,Port Annette
+07/02/2024,07:09:51,Caller 74,KUy 0019,Complaint,Pending,Carterstad
+06/01/2023,18:23:01,Caller 32,KqZ 4827,Car Wash Inquiry,Resolved,Dixonborough
+03/02/2024,10:33:39,Caller 64,KlU 3868,General Question,Escalated,Johnsonton
+08/01/2024,02:18:41,Caller 37,KyE 4090,Payment Issue,Pending,New Bradborough
+05/01/2024,18:37:30,Caller 53,KoJ 6476,Booking,Escalated,Alanfort
+27/04/2023,22:17:34,Caller 21,KCZ 0505,Car Wash Inquiry,Resolved,North Jessicaberg
+06/07/2023,05:45:18,Caller 6,KmT 8166,Booking,Resolved,Graceport
+21/01/2024,03:43:34,Caller 38,Kyr 6021,Booking,Resolved,South Daniel
+07/04/2024,17:59:49,Caller 47,KXM 3609,General Question,Resolved,South Davidfurt
+23/10/2023,09:10:21,Caller 59,KuA 0126,Car Wash Inquiry,No Action Needed,Gabrielfort
+04/01/2024,15:22:32,Caller 19,KCt 8545,General Question,Resolved,South Marktown
+29/10/2023,15:47:03,Caller 15,KqH 9301,Booking,Escalated,Lake Alexisborough
+11/03/2023,01:52:21,Caller 34,KuB 2743,Complaint,Escalated,West Rickyfurt
+18/01/2023,04:23:07,Caller 41,KuU 7314,Complaint,Resolved,North Alexandrastad
+16/09/2023,20:18:46,Caller 56,Kdy 8881,General Question,No Action Needed,New Maria
+07/04/2024,23:21:28,Caller 14,KNx 9825,Booking,Resolved,Justinmouth
+04/04/2023,06:25:53,Caller 6,KRv 5822,Payment Issue,Escalated,Perezburgh
+24/11/2023,02:02:25,Caller 9,KqF 6093,Car Wash Inquiry,Pending,Lake Jerry
+02/12/2023,15:41:17,Caller 60,KGm 9155,Complaint,Resolved,East Monicastad
+02/04/2023,22:50:05,Caller 21,Kmm 6749,Booking,Resolved,Millerland
+16/09/2023,09:58:55,Caller 51,KKu 5896,Booking,Pending,Tanyahaven
+21/02/2023,11:14:43,Unknown Caller,KCt 9242,General Question,Pending,New Danielton
+26/07/2023,06:40:52,Caller 27,KAH 8955,Car Wash Inquiry,Resolved,North Alexisview
+18/04/2023,03:22:56,Caller 21,KXl 7312,General Question,Pending,Port Juanmouth
+09/06/2023,21:06:09,Caller 60,KXJ 3750,General Question,Resolved,New Timothy
+10/01/2024,06:58:05,Caller 12,KaO 7434,Booking,Pending,Port Jessicaberg
+12/05/2024,08:38:27,Caller 42,KyE 7088,Payment Issue,Resolved,Whiteview
+06/08/2023,16:12:16,Caller 71,KLn 8466,Payment Issue,No Action Needed,North Brianstad
+30/10/2023,19:08:54,Caller 30,KVf 3131,Complaint,Pending,Michaelhaven
+22/01/2024,23:07:39,Caller 35,KMT 8976,General Question,Escalated,Montgomeryborough
+04/01/2024,11:30:54,Caller 60,Kmy 8921,General Question,Pending,Lake Kimberlyhaven
+20/04/2024,09:46:24,Caller 20,KJn 3327,Booking,Escalated,South Thomas
+26/11/2023,03:02:04,Caller 4,KFI 9756,Car Wash Inquiry,Resolved,Smithton
+22/11/2023,20:18:21,Caller 75,KUL 0973,General Question,No Action Needed,New Davidberg
+31/03/2024,12:27:10,Caller 15,KnV 0366,Booking,No Action Needed,Christinamouth
+07/11/2023,22:56:32,Caller 8,KmF 4474,Booking,Escalated,Fisherville
+02/10/2023,03:51:17,Caller 3,KFR 8203,Payment Issue,Resolved,Gonzalesport
+08/06/2023,08:20:45,Caller 79,Khu 6612,Booking,Pending,New Paulview
+13/05/2024,05:38:41,Caller 79,KDM 5592,Booking,Escalated,South Jonathanburgh
+28/05/2023,23:24:34,Caller 37,KFs 5048,Booking,Resolved,Port Donna
+29/02/2024,17:24:04,Caller 6,KbA 8941,Complaint,Resolved,Lake Kellyside
+27/03/2024,05:33:53,Caller 76,Krw 6637,General Question,Resolved,Garciatown
+08/08/2023,19:27:09,Caller 42,KQN 7733,General Question,Escalated,Debbiemouth
+02/05/2024,06:02:17,Caller 45,Knw 9835,Complaint,Resolved,Brittanytown
+09/03/2023,22:01:29,Caller 59,KLW 2790,Booking,Resolved,Stevefort
+29/04/2024,04:12:46,Caller 79,Kqh 2279,General Question,Resolved,Rodriguezbury
+22/11/2023,11:47:30,Caller 46,KGN 0032,General Question,Escalated,New Benjamin
+26/09/2023,07:39:40,Caller 18,KYK 0121,Payment Issue,Resolved,Taylorfurt
+10/01/2024,13:19:31,Caller 8,KTx 3308,General Question,Resolved,Lake Steven
+04/06/2023,06:10:28,Caller 23,Kvu 7174,Payment Issue,No Action Needed,Reedport
+07/05/2023,14:07:18,Caller 11,KjX 6207,Booking,No Action Needed,Raymondborough
+02/02/2024,19:51:05,Caller 18,Knw 6694,Car Wash Inquiry,Resolved,Bradybury
+06/08/2023,00:46:56,Caller 32,KqT 0588,Complaint,Escalated,Munozmouth
+02/02/2023,17:18:47,Caller 11,KoI 5000,Car Wash Inquiry,No Action Needed,South Donald
+26/10/2023,20:23:25,Caller 61,KCR 8957,Car Wash Inquiry,Resolved,Lake Maryhaven
+11/03/2024,12:34:15,Caller 43,Krg 3840,Car Wash Inquiry,No Action Needed,Karenchester
+28/02/2024,11:39:20,Caller 33,KuU 2987,Payment Issue,Escalated,Lake Karenville
+23/06/2023,02:26:15,Caller 41,KgR 7663,Payment Issue,Resolved,Torresshire
+31/03/2023,16:13:46,Caller 8,KXy 0756,Complaint,Resolved,Kerrberg
+07/12/2023,20:31:48,Caller 43,Kbn 8953,Payment Issue,No Action Needed,East Gregory
+08/02/2024,14:55:12,Caller 9,KyL 6069,Car Wash Inquiry,No Action Needed,Port Michael
+01/05/2024,22:30:18,Caller 11,KQB 1937,Car Wash Inquiry,No Action Needed,Port Lori
+13/09/2023,06:04:06,Caller 45,KoH 5374,Payment Issue,Pending,Collierburgh
+09/05/2023,11:27:03,Caller 9,KIP 3275,Complaint,Escalated,South Marychester
+02/10/2023,10:26:11,Caller 14,KUS 1170,Booking,Resolved,Mullenstad
+15/04/2024,02:52:40,Caller 28,KkJ 5543,Payment Issue,No Action Needed,Port Christopherview
+10/05/2024,15:01:16,Caller 78,KjP 9518,Payment Issue,Resolved,Schmidtton
+21/02/2023,01:26:46,Caller 27,KRW 2201,Booking,Escalated,Farrellmouth
+31/12/2023,17:23:33,Caller 42,KyE 0790,Payment Issue,No Action Needed,East Alexis
+05/12/2023,04:14:21,Caller 3,KKk 9249,Payment Issue,No Action Needed,Dickersonburgh
+03/04/2023,14:04:05,Caller 3,KOO 6648,Car Wash Inquiry,Escalated,North Angela
+23/11/2023,17:47:40,Caller 9,Kde 8940,Car Wash Inquiry,No Action Needed,South Bridgetside
+28/01/2023,04:11:20,Caller 56,KBi 4110,Complaint,Pending,Marktown
+09/01/2024,05:28:47,Caller 29,KTj 8663,Payment Issue,Pending,Port Dennisburgh
+22/08/2023,19:09:38,Caller 3,KPU 1444,General Question,No Action Needed,Lake Anthonybury
+03/05/2024,05:57:16,Caller 76,KuD 3095,Payment Issue,Pending,Bishopport
+22/11/2023,23:41:31,Caller 53,KIe 8005,Complaint,No Action Needed,Tannerburgh
+07/04/2024,13:26:24,Caller 31,Kgo 7416,Booking,Escalated,Lake Sherryberg
+30/03/2023,10:24:04,Caller 6,KOe 9401,Complaint,Resolved,Markmouth
+24/04/2024,03:31:25,Caller 76,Kvy 8797,General Question,Resolved,West Michaelview
+08/04/2023,00:25:03,Caller 77,Kpk 1172,General Question,No Action Needed,West Williamfort
+29/11/2023,05:59:09,Caller 41,KMj 8467,Booking,Resolved,Chapmanburgh
+19/02/2023,21:58:55,Caller 59,KBj 4604,Car Wash Inquiry,Escalated,Chasechester
+29/10/2023,05:02:03,Caller 49,Ktd 8413,Car Wash Inquiry,Pending,Shawhaven
+04/06/2023,17:26:56,Caller 3,KUH 0122,Payment Issue,Pending,Smithtown
+18/04/2023,14:53:07,Unknown Caller,KTV 5205,Car Wash Inquiry,Escalated,Hallshire
+03/10/2023,17:55:59,Caller 19,KiJ 2437,Booking,Resolved,Port Lisaburgh
+11/04/2024,07:12:36,Caller 39,KAv 5735,General Question,Pending,Valerieland
+19/09/2023,14:31:28,Caller 11,KJC 9036,General Question,Pending,North Kevin
+03/12/2023,14:49:16,Caller 77,Kju 8694,Payment Issue,Resolved,West Heatherfort
+20/04/2024,17:12:41,Caller 44,KBp 5668,General Question,Escalated,Cannontown
+13/03/2024,15:13:19,Caller 32,Kzj 3055,General Question,Pending,Thomasshire
+24/11/2023,19:17:32,Caller 51,KUc 9006,Complaint,Escalated,North Pamela
+02/03/2023,05:09:26,Caller 43,KgD 6776,Car Wash Inquiry,Pending,Port Ryan
+29/08/2023,10:56:37,Caller 34,KjX 7827,General Question,Pending,North Jocelynview
+01/04/2024,11:08:46,Caller 66,KIy 8398,Car Wash Inquiry,No Action Needed,Brittanyhaven
+24/04/2024,12:11:20,Caller 59,KuF 3605,Payment Issue,Escalated,Lake Marcus
+16/05/2023,03:29:48,Caller 23,KKy 5658,Complaint,Pending,Robinsonmouth
+17/12/2023,21:38:28,Caller 72,KnK 4205,Complaint,Resolved,East Kennethberg
+28/10/2023,05:09:46,Caller 27,KoE 9618,Booking,Pending,Gillton
+06/01/2024,21:19:08,Caller 14,KAv 6276,Car Wash Inquiry,Pending,Greenfort
+04/05/2023,19:05:22,Caller 16,KzX 9866,Booking,Pending,New Brian
+12/01/2024,14:38:48,Caller 69,KaB 7148,Payment Issue,No Action Needed,North Laurietown
+25/07/2023,10:01:09,Caller 10,KSb 2266,Car Wash Inquiry,Escalated,Davidside
+12/01/2024,08:56:47,Caller 17,Kit 4203,Complaint,Escalated,East Richard
+18/01/2024,04:20:12,Caller 29,KGc 8088,Complaint,Resolved,Bennettfort
+08/12/2023,06:31:06,Caller 49,KxC 3429,Car Wash Inquiry,Escalated,New Angela
+09/10/2023,00:51:32,Caller 34,KWO 5192,Car Wash Inquiry,Resolved,East Sarah
+08/07/2023,22:29:55,Caller 8,KhA 4948,General Question,Resolved,Alvinmouth
+29/09/2023,02:05:59,Caller 18,Kwe 5660,General Question,No Action Needed,Morenochester
+05/03/2023,20:51:42,Caller 49,KDI 6421,Car Wash Inquiry,Pending,Lorimouth
+29/03/2023,01:16:00,Caller 37,Kty 3386,Complaint,Resolved,South Ronaldshire
+16/08/2023,14:54:50,Caller 47,KtD 5613,Booking,Pending,West Melinda
+13/12/2023,00:38:12,Caller 5,Kpn 2805,General Question,No Action Needed,Millerport
+11/05/2024,04:30:42,Caller 43,Kzm 7632,General Question,Resolved,Andrewside
+08/04/2024,23:46:02,Caller 60,KQb 7334,Payment Issue,No Action Needed,Port Alexandriaview
+03/08/2023,22:32:23,Caller 37,KaY 3577,Payment Issue,Escalated,Port Melanie
+04/05/2024,23:56:13,Caller 66,KIu 8598,Car Wash Inquiry,Resolved,Tammietown
+17/12/2023,09:46:47,Caller 9,KaT 3558,Booking,No Action Needed,Port Deniseburgh
+05/01/2024,03:19:19,Caller 16,KIN 3910,Complaint,Resolved,Harrisside
+11/05/2023,06:00:26,Caller 67,KCe 9282,Complaint,Resolved,Lake Anita
+16/07/2023,20:23:15,Caller 58,KQn 4975,General Question,No Action Needed,South Steven
+16/05/2023,01:59:28,Caller 8,KCo 9877,Booking,Resolved,Russellchester
+16/03/2023,05:26:49,Caller 1,Kcs 0769,Payment Issue,Escalated,Lake Brian
+21/06/2023,05:18:30,Caller 68,Kws 3440,Complaint,Pending,Port Mariaside
+25/06/2023,06:28:51,Caller 48,KFR 7792,Booking,Escalated,Marcusmouth
+04/12/2023,04:32:47,Caller 78,KMt 8296,Booking,Resolved,North Josephstad
+06/12/2023,06:48:41,Caller 24,KxA 8587,Complaint,Resolved,South Heatherland
+06/09/2023,23:13:16,Caller 34,KSQ 0399,Car Wash Inquiry,Pending,Lake Brianna
+16/08/2023,21:33:18,Caller 40,Kwv 9131,Payment Issue,Resolved,Port Tiffanyland
+03/03/2023,02:36:54,Caller 62,KuY 9236,Complaint,Pending,Port Holly
+24/03/2024,12:37:35,Caller 25,KUu 2968,Complaint,Escalated,East Amandafort
+10/03/2024,09:57:53,Caller 67,KiS 6859,Booking,Resolved,East Emilyport
+20/05/2023,10:12:55,Caller 46,Kdq 4397,Complaint,Resolved,Mejiafort
+05/09/2023,07:20:13,Caller 17,KrX 9917,Car Wash Inquiry,No Action Needed,Carrollmouth
+14/10/2023,19:56:01,Caller 48,Kos 4354,Complaint,Resolved,Port Gail
+05/03/2023,06:54:03,Caller 45,KGx 4835,Booking,No Action Needed,North Heatherberg
+24/04/2023,08:26:10,Caller 64,Kxh 5396,Complaint,Pending,West Juan
+26/03/2024,22:48:55,Caller 21,KrR 0364,General Question,Resolved,East Johnland
+16/07/2023,12:36:29,Caller 46,KJq 8501,Complaint,Resolved,Webbland
+10/03/2024,00:20:45,Caller 40,KjB 3156,Payment Issue,Resolved,North Carlaborough
+04/06/2023,09:44:01,Caller 64,KeZ 7096,Booking,Pending,Reynoldsmouth
+28/04/2023,21:34:33,Caller 3,KAN 3004,Car Wash Inquiry,Resolved,West Stephanieview
+03/08/2023,10:17:56,Caller 48,KGa 0012,Complaint,No Action Needed,New Cheryltown
+02/12/2023,01:24:07,Caller 19,KIP 5789,Payment Issue,Escalated,Ginabury
+26/11/2023,18:50:31,Caller 24,KWj 6145,Complaint,No Action Needed,North Randymouth
+16/09/2023,23:58:18,Caller 2,KPM 9175,Car Wash Inquiry,Resolved,West Nicholasport
+14/04/2024,01:53:51,Caller 21,KoG 5875,General Question,Pending,West Tammy
+10/05/2024,14:11:48,Caller 77,KrF 9675,Booking,Pending,Ernestton
+01/12/2023,10:37:37,Caller 56,KXP 9809,Complaint,No Action Needed,Lake Cassandra
+16/03/2024,23:25:29,Caller 61,KWh 6014,Complaint,No Action Needed,Markland
+17/01/2024,03:55:01,Caller 75,KnL 5654,Payment Issue,Escalated,Jenkinsland
+15/09/2023,11:33:48,Caller 51,KoN 5058,Complaint,Resolved,Loveshire
+11/03/2024,22:43:26,Caller 6,KwH 5393,Complaint,Resolved,Port Brandon
+30/05/2023,07:04:06,Caller 36,Ksb 9609,Complaint,Resolved,Sheppardland
+20/11/2023,05:14:56,Caller 41,Kiv 8798,Payment Issue,No Action Needed,West Kristen
+14/10/2023,16:19:02,Caller 16,KBJ 0556,Payment Issue,No Action Needed,North Tracey
+08/02/2024,04:26:11,Caller 36,KXV 7824,Complaint,Pending,North Lisastad
+04/03/2023,14:11:08,Caller 55,KZM 2242,Complaint,Resolved,West Randallview
+27/11/2023,23:15:20,Caller 22,Kmo 8147,Payment Issue,Escalated,Sanchezton
+18/02/2024,13:55:25,Caller 9,KpZ 9169,General Question,Resolved,West Bryan
+01/03/2023,17:23:16,Caller 36,KOH 4352,Payment Issue,Pending,East Dennis
+09/02/2024,14:25:09,Caller 9,KMS 0725,Payment Issue,Resolved,Port Robert
+27/03/2023,00:15:38,Caller 25,Kmu 4775,Complaint,Escalated,Port Michael
+09/02/2023,01:00:52,Caller 49,KrC 5998,Complaint,Pending,Shelleybury
+15/03/2023,08:07:07,Caller 53,Kfp 2815,Complaint,Pending,New Cherylshire
+16/05/2023,14:38:16,Caller 11,KyT 2436,Car Wash Inquiry,Escalated,Brianmouth
+26/01/2024,22:51:15,Caller 58,Kny 5461,General Question,Escalated,New Matthew
+20/02/2023,04:29:08,Caller 1,KCt 0558,General Question,Escalated,Marilynside
+20/11/2023,07:48:57,Caller 6,KtK 0488,Payment Issue,Escalated,Matthewstad
+29/01/2023,23:43:11,Caller 49,KZZ 3170,Complaint,Escalated,Lake Sarahton
+01/06/2023,15:30:23,Caller 57,KqH 9478,Car Wash Inquiry,Escalated,Lake William
+18/01/2023,23:53:33,Caller 18,KFI 5561,Payment Issue,Pending,New Sarahmouth
+19/06/2023,09:18:21,Caller 39,KRj 8947,Booking,Pending,West Marthaburgh
+31/01/2023,08:16:04,Caller 15,Kvz 2066,Complaint,Pending,Kellyville
+01/09/2023,21:23:57,Caller 65,KOM 1478,Booking,No Action Needed,Berryberg
+02/07/2023,18:13:19,Caller 57,Khv 8727,Complaint,Pending,New Janetview
+21/01/2024,20:58:55,Caller 5,KXt 4211,Car Wash Inquiry,No Action Needed,Port Richardborough
+04/02/2024,17:52:44,Caller 32,Ksl 7530,Payment Issue,No Action Needed,Nealchester
+22/11/2023,03:04:11,Caller 50,KMk 3636,Complaint,No Action Needed,North Ashley
+26/08/2023,16:03:22,Caller 2,KGq 8835,Booking,Pending,South Rickymouth
+16/12/2023,08:47:47,Caller 61,Kaj 8957,Complaint,Pending,Danamouth
+03/04/2024,05:05:01,Caller 49,KyG 7422,Car Wash Inquiry,Escalated,North Brittanyfort
+08/01/2024,17:19:02,Caller 5,Ksb 3083,Car Wash Inquiry,Escalated,Sylviaport
+21/03/2024,06:54:00,Caller 21,Kan 5756,Booking,Resolved,Port Bruce
+20/12/2023,19:53:30,Caller 43,KsJ 1572,Booking,Resolved,Nicholsonland
+13/11/2023,07:40:45,Caller 52,KtA 0589,Complaint,Pending,Smallside
+19/11/2023,02:18:00,Caller 72,KVM 8877,Payment Issue,Pending,North Emilyhaven
+06/07/2023,04:46:32,Caller 32,Krj 3059,Complaint,Escalated,Scottside
+20/03/2023,17:19:44,Caller 30,KCe 8480,General Question,No Action Needed,West Phillip
+30/04/2024,19:29:38,Caller 80,KFb 5259,Booking,Pending,Jennamouth
+29/04/2024,05:41:53,Caller 49,KZP 9767,Booking,Escalated,Lynnstad
+06/04/2023,19:06:42,Caller 19,KTv 0022,Booking,Pending,East Richard
+23/01/2024,12:22:12,Caller 53,KfM 7822,Car Wash Inquiry,No Action Needed,Lake Jessica
+19/12/2023,16:18:36,Caller 63,Kan 0356,General Question,No Action Needed,North Holly
+23/11/2023,17:51:22,Caller 40,KtJ 6678,Complaint,Resolved,Shieldsport
+17/07/2023,15:43:56,Caller 5,KAX 8159,Car Wash Inquiry,Pending,Turnertown
+06/11/2023,13:57:27,Caller 42,KVJ 0327,Complaint,Pending,Collinsburgh
+18/01/2023,23:05:32,Caller 45,KGC 8639,Complaint,Escalated,New Josephbury
+05/10/2023,20:43:42,Caller 34,KXx 8287,Booking,Pending,Camachoberg
+16/01/2023,16:11:00,Caller 72,KGt 3696,Payment Issue,Escalated,Port Brandyshire
+18/08/2023,02:15:29,Caller 73,KRe 2906,Car Wash Inquiry,Escalated,Port William
+04/10/2023,10:11:55,Caller 49,KHA 4979,Payment Issue,Escalated,New Jasonmouth
+05/12/2023,21:34:03,Caller 76,Kad 2835,Booking,Resolved,West Jeff
+05/02/2024,21:00:01,Caller 65,KEE 7891,Payment Issue,Escalated,Alexanderstad
+14/03/2023,04:47:53,Caller 10,KZB 7181,Payment Issue,Pending,Rachelhaven
+06/01/2023,11:17:23,Caller 37,KDG 0815,Car Wash Inquiry,Pending,Masonmouth
+18/02/2023,01:06:43,Caller 29,KPG 8577,Car Wash Inquiry,No Action Needed,Romeroton
+25/11/2023,16:15:25,Caller 66,KEM 0358,Car Wash Inquiry,Pending,Danielhaven
+26/04/2024,21:28:09,Caller 50,Krt 6038,General Question,Pending,Johnsonfort
+20/04/2023,01:52:42,Caller 1,Kja 9556,Payment Issue,Resolved,Joshuafurt
+27/05/2023,06:34:00,Caller 3,KnG 9308,Booking,Escalated,Laurastad
+19/03/2024,11:13:25,Caller 52,KbG 5187,Booking,No Action Needed,Campbellport
+30/05/2023,20:13:54,Caller 17,KxE 4118,Car Wash Inquiry,No Action Needed,New Bethton
+13/03/2023,06:32:17,Caller 80,Kgt 3142,Complaint,No Action Needed,West Justin
+05/01/2023,01:29:37,Caller 72,KBC 2023,Payment Issue,No Action Needed,South Jorge
+25/03/2024,17:07:00,Unknown Caller,Kis 5878,Car Wash Inquiry,Resolved,Nelsonside
+19/06/2023,12:41:42,Caller 67,KyI 5997,Car Wash Inquiry,Resolved,Randyberg
+15/08/2023,19:39:52,Caller 57,Kwx 8520,General Question,Pending,Browntown
+02/02/2024,20:57:06,Caller 1,Kgc 8204,Booking,No Action Needed,New Stephanieland
+22/02/2023,00:33:25,Caller 47,Kpo 9836,Car Wash Inquiry,No Action Needed,Alexisview
+03/05/2023,20:46:46,Caller 21,KFA 7843,Payment Issue,No Action Needed,Valenzuelaton
+07/03/2023,15:01:57,Caller 60,KWK 0076,Complaint,No Action Needed,Lake Trevorhaven
+11/04/2024,05:27:26,Caller 44,KEo 1616,Payment Issue,Pending,Victorialand
+05/02/2023,03:13:20,Caller 64,KaJ 6721,General Question,No Action Needed,North Kaitlin
+14/11/2023,21:01:38,Caller 9,KUy 1614,Complaint,Escalated,Castillomouth
+17/10/2023,18:29:23,Caller 23,KzY 8865,Car Wash Inquiry,No Action Needed,Gainesview
+07/01/2024,18:07:04,Caller 74,KuX 9859,Booking,No Action Needed,Taylorfurt
+08/02/2024,20:00:40,Caller 47,KSP 1475,Car Wash Inquiry,Pending,East Catherinemouth
+19/02/2024,20:01:56,Caller 18,Kbc 2676,Payment Issue,Resolved,Jenkinsborough
+02/05/2024,23:56:45,Caller 74,KCE 7204,General Question,Resolved,Marksview
+23/10/2023,00:33:09,Caller 14,Krn 1291,Complaint,Resolved,South Juliebury
+20/06/2023,16:38:41,Caller 40,KOH 0056,Payment Issue,Pending,Paulaville
+16/01/2024,03:29:07,Caller 40,KeX 4825,General Question,Escalated,South Tiffany
+20/09/2023,11:49:57,Caller 31,KHg 2982,Car Wash Inquiry,Pending,Kelseyberg
+09/07/2023,19:09:02,Caller 5,KTC 2832,Car Wash Inquiry,Escalated,East Adrian
+22/03/2023,16:59:35,Caller 35,KmZ 4072,Booking,Pending,Eugenetown
+15/08/2023,03:59:19,Caller 77,KEN 9369,General Question,No Action Needed,Oscarfort
+22/11/2023,09:46:03,Caller 27,KNC 4369,Car Wash Inquiry,Resolved,Port Julie
+20/01/2023,04:31:48,Caller 14,KVL 1929,Complaint,No Action Needed,New Thomastown
+20/04/2023,15:58:31,Caller 44,KdF 8821,General Question,No Action Needed,Lake Anitaborough
+08/05/2024,12:46:19,Caller 73,KSh 1295,Payment Issue,Resolved,Port Margaret
+09/02/2023,05:06:38,Caller 38,KMH 6334,Payment Issue,Escalated,Jacksonmouth
+21/07/2023,11:04:29,Caller 70,KEw 6086,General Question,No Action Needed,West Brian
+21/04/2024,21:46:40,Caller 33,KHL 8016,Booking,Pending,Patriciastad
+16/03/2024,19:29:04,Caller 76,KHQ 2417,Payment Issue,Escalated,West Emma
+18/12/2023,02:29:54,Caller 68,KDT 2952,Car Wash Inquiry,No Action Needed,Stevenhaven
+10/08/2023,18:28:56,Caller 56,KMu 2149,General Question,Pending,Anthonybury
+24/05/2023,16:23:25,Caller 65,KzG 5890,Car Wash Inquiry,Pending,East Carl
+04/04/2024,04:55:50,Caller 63,KmR 6592,Car Wash Inquiry,No Action Needed,Eugeneburgh
+02/08/2023,02:19:38,Caller 30,KTl 5054,Payment Issue,Resolved,Jonathanville
+26/01/2024,21:27:30,Caller 10,KXI 0482,Car Wash Inquiry,Escalated,Lake William
+18/07/2023,07:44:56,Caller 36,Kfw 8378,Booking,No Action Needed,Port Malikhaven
+21/02/2023,17:56:04,Caller 71,KkX 1717,Car Wash Inquiry,No Action Needed,Weberbury
+13/09/2023,07:18:53,Caller 48,KVg 7337,Complaint,Pending,Hicksport
+26/02/2023,14:28:14,Caller 65,Kei 7692,General Question,Resolved,New Austinmouth
+26/12/2023,06:13:58,Caller 4,KBE 8131,Complaint,Pending,Kelleystad
+19/10/2023,15:15:49,Caller 74,KnI 2572,Complaint,Resolved,South Gregory
+11/06/2023,05:54:10,Caller 20,Ksa 0192,Payment Issue,No Action Needed,West Zacharyshire
+25/03/2024,06:15:18,Caller 74,KIu 2573,Car Wash Inquiry,Escalated,Port Michellefurt
+20/01/2024,09:22:06,Caller 31,Kpz 6187,General Question,Escalated,West Aaronland
+27/03/2023,11:16:57,Caller 72,KPM 0495,Payment Issue,Escalated,New Martha
+24/04/2023,14:08:07,Caller 31,KZc 1597,Booking,Escalated,Lake Jeffreymouth
+03/05/2024,19:18:56,Unknown Caller,KUL 5895,Booking,No Action Needed,South Kelsey
+17/09/2023,00:27:54,Caller 1,KdY 9017,Booking,Resolved,Rodriguezland
+16/08/2023,05:25:26,Caller 23,KKR 0086,Car Wash Inquiry,No Action Needed,Normatown
+28/03/2024,05:08:27,Caller 13,KtH 5107,Car Wash Inquiry,No Action Needed,Parkstad
+24/03/2023,09:34:16,Caller 62,Kth 0021,Payment Issue,Pending,Port Markville
+25/03/2024,21:24:34,Caller 54,KDr 7053,Booking,Pending,South Christina
+20/12/2023,21:11:01,Caller 62,KSj 3326,Car Wash Inquiry,Escalated,Matthewton
+11/08/2023,23:48:20,Caller 70,Kpa 1620,General Question,Escalated,Lake Michellebury
+24/03/2023,18:30:32,Caller 47,KdS 2246,Booking,Pending,West Jose
+02/12/2023,22:31:58,Caller 35,KoA 4229,Booking,Resolved,South Andrewfort
+14/10/2023,23:07:22,Caller 7,KCF 4590,Complaint,Escalated,Port Kenneth
+07/04/2023,16:18:07,Caller 18,KOV 9257,Payment Issue,Escalated,Wongchester
+27/07/2023,07:28:33,Caller 79,Keu 3699,Complaint,Pending,Benjaminfort
+06/01/2023,12:32:55,Caller 31,KrK 3799,Car Wash Inquiry,Escalated,Randallton
+17/02/2024,21:42:30,Caller 78,KtD 3453,Car Wash Inquiry,Escalated,Port Mackenzie
+17/02/2024,15:50:00,Caller 20,KNW 5336,Complaint,Resolved,Lake George
+20/10/2023,15:56:40,Caller 32,KVC 2267,Car Wash Inquiry,No Action Needed,West Brittany
+29/07/2023,17:31:55,Caller 9,Kyo 5453,Complaint,Pending,Lopezton
+05/06/2023,14:47:07,Caller 19,Ksx 2333,Complaint,No Action Needed,Calebfort
+07/01/2023,13:46:15,Caller 60,KRv 0982,General Question,No Action Needed,Lambertport
+10/01/2023,16:47:06,Caller 65,KxI 8503,General Question,Pending,Beardville
+08/10/2023,00:50:19,Caller 7,KUM 1517,Complaint,Pending,Gibsonhaven
+06/11/2023,19:24:43,Caller 72,Kfm 2627,Car Wash Inquiry,Resolved,Taylorville
+11/10/2023,02:19:17,Caller 49,Koz 7975,Car Wash Inquiry,Resolved,East Brian
+22/02/2023,23:42:24,Caller 39,Kso 4607,Car Wash Inquiry,Escalated,Underwoodville
+24/01/2024,01:04:59,Caller 48,Kpr 9701,Complaint,Pending,East Jessica
+21/09/2023,12:43:12,Caller 14,Kjl 6308,Car Wash Inquiry,Escalated,Kurtfurt
+24/03/2023,02:26:35,Caller 30,KpA 7110,Complaint,No Action Needed,Johnstad
+20/01/2024,06:17:02,Caller 12,KGX 7996,Booking,Escalated,Lake Cynthia
+15/05/2023,17:04:02,Caller 26,Kwd 4131,General Question,Escalated,Port Jesus
+13/09/2023,13:17:42,Caller 67,KYp 4945,Booking,Pending,Richmondburgh
+27/02/2024,01:18:37,Caller 31,KFj 9450,Payment Issue,Escalated,Martinbury
+13/02/2023,06:53:03,Unknown Caller,Khz 7410,Complaint,No Action Needed,Brendanmouth
+10/11/2023,15:09:21,Caller 30,KJp 0313,General Question,Resolved,East Zacharyside
+10/01/2024,03:40:35,Caller 17,KOj 4287,Complaint,Pending,Lake Michael
+22/05/2023,22:15:58,Caller 44,KWO 7815,General Question,Pending,Crystalfurt
+06/03/2024,21:31:21,Caller 14,Kkn 4168,Car Wash Inquiry,No Action Needed,Diazport
+10/05/2024,01:36:58,Caller 29,KVD 4229,General Question,No Action Needed,South Curtismouth
+28/04/2023,01:11:12,Caller 45,KXU 5102,Car Wash Inquiry,Escalated,Johnsonton
+16/05/2023,13:19:57,Caller 54,KTM 7336,General Question,Resolved,Kingville
+12/05/2024,03:43:33,Caller 32,Kte 3054,Payment Issue,No Action Needed,Donaldshire
+06/10/2023,01:07:05,Caller 33,KJx 0143,Car Wash Inquiry,Resolved,Arianafort
+02/08/2023,06:31:57,Caller 49,KzT 9116,Booking,Pending,Michaelbury
+06/06/2023,18:12:52,Caller 68,KPW 2262,Payment Issue,Resolved,North Jessicamouth
+27/05/2023,04:13:32,Caller 72,KQl 2875,General Question,Escalated,Lake Christine
+07/03/2023,18:26:51,Caller 1,KuQ 7594,Complaint,Pending,Brownhaven
+11/04/2023,08:11:47,Caller 74,KYC 9575,Payment Issue,Pending,Port Melissaside
+21/09/2023,00:35:07,Caller 32,Kdo 3692,Car Wash Inquiry,Escalated,East Dominic
+15/09/2023,20:59:01,Caller 56,KKr 8933,General Question,No Action Needed,North Michelleburgh
+12/09/2023,06:08:13,Caller 18,Kye 3102,Payment Issue,Pending,South Ashleyside
+29/12/2023,22:16:50,Caller 42,Kei 7771,Booking,No Action Needed,Port Anthonyville
+09/04/2024,08:21:31,Caller 56,KKS 6180,Payment Issue,Resolved,Davidmouth
+01/10/2023,12:24:30,Caller 52,KlS 0267,Booking,Escalated,West Paigehaven
+26/11/2023,10:30:03,Caller 36,KSu 4540,Payment Issue,Resolved,Wheelerfurt
+12/12/2023,13:44:53,Caller 29,Koe 4420,Complaint,Pending,Clinefort
+10/04/2024,09:19:00,Caller 69,KWN 5056,General Question,Escalated,South David
+01/09/2023,20:33:56,Caller 12,KYl 9090,General Question,Escalated,South Oscar
+03/01/2024,23:14:44,Caller 14,KxI 2109,Payment Issue,Pending,Henrystad
+03/09/2023,23:05:24,Caller 57,Kgs 6807,Booking,No Action Needed,Malonechester
+08/04/2023,20:20:02,Caller 9,KXU 9753,Payment Issue,Escalated,Warrenville
+23/09/2023,08:34:28,Caller 12,KiX 5813,Car Wash Inquiry,Pending,East Derekberg
+06/12/2023,08:22:46,Caller 27,KjI 7046,Complaint,Resolved,Reillystad
+07/07/2023,15:35:26,Caller 20,KUK 5050,General Question,No Action Needed,Baldwinshire
+11/05/2023,20:26:30,Caller 17,KUB 7481,Payment Issue,Escalated,Erikberg
+19/08/2023,05:38:41,Caller 11,KXb 3782,Complaint,Pending,Kennethmouth
+30/03/2024,16:14:19,Unknown Caller,KiC 9813,Payment Issue,Resolved,Zacharyhaven
+09/03/2023,08:34:28,Caller 63,KTT 2321,Complaint,Escalated,Danielburgh
+26/04/2024,21:13:29,Caller 40,KzJ 5351,Payment Issue,Pending,Phillipsstad
+22/06/2023,22:04:18,Caller 75,KNS 8068,Car Wash Inquiry,No Action Needed,Tuckerside
+27/01/2023,15:26:24,Caller 45,KHS 5140,General Question,No Action Needed,Boyerchester
+09/05/2023,18:16:27,Caller 5,KuV 2133,Car Wash Inquiry,Pending,Hendersonville
+23/01/2024,00:18:56,Caller 72,KQt 7815,Payment Issue,No Action Needed,North Allisonchester
+10/12/2023,13:59:31,Caller 50,KZe 5478,Payment Issue,Pending,Lake Georgemouth
+10/07/2023,09:48:29,Caller 68,KBt 7339,Payment Issue,No Action Needed,Valeriechester
+22/11/2023,07:52:32,Caller 35,KAi 4595,Booking,Resolved,Ericton
+28/06/2023,12:17:37,Caller 19,KOy 9744,General Question,Resolved,Petermouth
+12/11/2023,17:34:40,Caller 15,KEy 2596,Complaint,Resolved,Lake Brianton
+04/01/2023,18:16:06,Caller 53,Kld 7669,General Question,Pending,Brandtfort
+11/10/2023,21:29:15,Caller 11,Kyb 9920,Booking,No Action Needed,New Justin
+14/09/2023,01:01:51,Caller 58,Kmi 1485,Payment Issue,Pending,East Gregory
+03/03/2023,18:39:40,Caller 47,Kpf 3605,Complaint,No Action Needed,North Walterborough
+04/05/2024,15:20:17,Caller 55,Kze 7831,Complaint,No Action Needed,Port Jacobstad
+10/05/2023,17:17:15,Caller 74,KqX 3662,Car Wash Inquiry,Escalated,North Kenneth
+03/03/2024,16:03:43,Caller 25,KLw 5970,General Question,Escalated,Lake Jeffery
+12/05/2023,15:02:09,Caller 29,KXu 3672,Car Wash Inquiry,Pending,Lake Michelle
+10/02/2023,00:04:59,Caller 23,KBd 2900,Payment Issue,Escalated,North Jillianbury
+04/03/2024,15:25:44,Caller 68,KvY 6508,Complaint,Resolved,Meganbury
+06/05/2023,23:09:25,Caller 9,KKp 7464,Payment Issue,Escalated,West Dawnmouth
+28/02/2023,03:10:54,Caller 62,KBb 8573,Booking,Escalated,North Samuelfurt
+16/10/2023,21:26:53,Caller 71,KCo 5959,General Question,Escalated,Williamshire
+22/05/2023,21:13:03,Caller 62,KpW 0022,Booking,Pending,West Ronald
+06/02/2023,21:16:40,Caller 40,Kss 4098,General Question,No Action Needed,Henryview
+25/06/2023,05:31:47,Caller 50,Kgh 6489,General Question,Escalated,Hudsonchester
+29/07/2023,18:41:11,Caller 78,Kue 2794,Complaint,Pending,Simmonsmouth
+23/01/2024,08:05:50,Caller 76,Kyw 4436,Booking,Pending,Garyberg
+07/01/2024,01:33:44,Caller 68,Kdm 4556,Car Wash Inquiry,Pending,Kaitlynberg
+19/02/2023,15:30:10,Caller 60,Kpl 4911,Booking,Resolved,Barbaraland
+06/08/2023,04:49:05,Caller 35,KdP 8116,Booking,Pending,West Edward
+11/06/2023,14:00:29,Caller 3,Kig 5385,General Question,Pending,New Amy
+24/03/2024,17:22:16,Caller 78,KVR 7112,Car Wash Inquiry,Pending,Ashleybury
+22/12/2023,05:58:20,Unknown Caller,Kcn 1654,Booking,No Action Needed,Cartermouth
+16/12/2023,05:13:59,Caller 80,KMa 5683,General Question,Pending,New Michelle
+25/05/2023,04:01:32,Caller 33,KKU 7612,Booking,No Action Needed,South Christopher
+11/09/2023,00:22:58,Caller 6,KTB 3094,General Question,No Action Needed,South Monique
+01/05/2024,04:20:28,Caller 78,KZr 3960,Booking,Pending,South Christian
+30/12/2023,04:18:08,Caller 20,KWP 2822,Complaint,Escalated,Ronaldfort
+13/02/2023,14:24:13,Caller 22,KuV 9644,General Question,Resolved,North Robin
+09/03/2023,09:16:31,Caller 79,KdT 1178,Car Wash Inquiry,Pending,Port Erin
+31/05/2023,16:35:19,Caller 42,Kdw 7883,Booking,Escalated,Adamsberg
+07/01/2023,03:59:02,Caller 72,KYd 8980,Car Wash Inquiry,Resolved,Millerport
+12/09/2023,14:53:27,Caller 48,KjP 7516,Booking,No Action Needed,Lambertton
+13/03/2024,08:27:00,Caller 53,KtT 6150,Payment Issue,No Action Needed,Johnsontown
+18/12/2023,10:56:38,Caller 47,KKj 9035,General Question,Pending,Kevinton
+23/09/2023,12:13:36,Caller 19,Kbf 0312,Complaint,Pending,West Jason
+24/05/2023,13:29:00,Caller 43,Khj 5126,Payment Issue,Pending,East Mark
+10/01/2023,04:43:40,Caller 66,KAa 2927,Complaint,Pending,Jeremyborough
+26/06/2023,00:50:07,Caller 17,Kst 4691,General Question,Resolved,East Christina
+17/03/2023,17:26:15,Unknown Caller,KaP 9413,Booking,Pending,Gordonview
+13/02/2024,15:33:28,Caller 56,Kjk 4769,Payment Issue,Pending,Patricialand
+06/11/2023,07:09:04,Caller 8,Khg 2598,General Question,No Action Needed,North Matthewberg
+24/01/2023,20:04:39,Caller 23,KIk 5612,Booking,Escalated,East Brenda
+14/05/2023,08:26:26,Caller 32,KrD 0243,Booking,Escalated,Mcdowellview
+16/01/2024,16:55:16,Caller 13,KvX 8335,General Question,No Action Needed,Juliehaven
+02/07/2023,08:50:09,Caller 47,Knx 5522,Payment Issue,Pending,New Andrew
+08/04/2024,05:00:09,Caller 54,KIQ 8401,Complaint,Pending,Fitzgeraldside
+17/12/2023,17:19:14,Caller 47,KHI 9415,Booking,Pending,West Karenport
+03/07/2023,22:07:12,Unknown Caller,KkB 0729,Car Wash Inquiry,Escalated,Lake Josephberg
+05/08/2023,01:22:58,Caller 15,KaE 1954,Complaint,No Action Needed,Lake Matthew
+16/04/2024,03:15:27,Unknown Caller,KQN 5083,Complaint,No Action Needed,North Steven
+14/09/2023,23:59:13,Caller 48,KVZ 2880,Car Wash Inquiry,Escalated,Alyssamouth
+25/09/2023,16:54:07,Caller 63,Koh 5980,Complaint,Pending,Lake Michelleview
+28/05/2023,10:28:12,Caller 57,KSd 7123,Payment Issue,Pending,North Yvonneview
+07/04/2024,01:59:22,Caller 1,KTc 8982,Complaint,Pending,Herringborough
+07/02/2024,08:14:34,Caller 77,KeF 0832,Booking,No Action Needed,New Melissaton
+20/05/2023,18:27:33,Caller 10,Kzb 5507,Car Wash Inquiry,No Action Needed,Martinezmouth
+29/02/2024,19:04:28,Caller 63,KAe 1016,Booking,Escalated,Robertton
+23/02/2023,03:58:55,Caller 3,KVm 9720,Complaint,No Action Needed,Brentport
+04/12/2023,15:34:09,Caller 39,KcP 4053,Booking,Pending,West Jennifershire
+19/12/2023,05:28:17,Caller 43,Kkk 6130,General Question,Escalated,Lake Christopherborough
+01/08/2023,15:51:42,Caller 64,KrM 2325,Booking,Escalated,Bradyview
+27/03/2023,18:31:14,Caller 33,KnQ 6661,Booking,No Action Needed,Freemanhaven
+27/05/2023,22:49:41,Caller 42,KTu 2102,Booking,Escalated,Longhaven
+10/03/2024,07:59:35,Caller 68,KFt 3491,Car Wash Inquiry,No Action Needed,Port Bryan
+28/01/2023,17:01:31,Caller 23,Ksv 1348,General Question,No Action Needed,Johnsonport
+02/11/2023,08:21:55,Caller 77,KJC 3916,Payment Issue,Pending,Lake Kristihaven
+15/09/2023,01:50:27,Caller 75,KBC 9590,Car Wash Inquiry,Escalated,New Brian
+11/06/2023,19:18:06,Caller 64,Khr 2511,Car Wash Inquiry,No Action Needed,Mooremouth
+22/03/2024,14:27:39,Caller 1,KQx 8528,Booking,Escalated,East Marciastad
+02/05/2024,21:40:32,Caller 22,KbG 3450,General Question,Resolved,South Robertberg
+16/01/2024,15:34:00,Caller 26,KkR 0071,Complaint,Pending,East Kristenview
+13/12/2023,09:53:50,Caller 39,KhI 8717,Complaint,Pending,South Brittany
+10/12/2023,02:12:27,Caller 3,KZH 0817,Booking,Resolved,Lake Frankborough
+02/08/2023,23:02:06,Caller 70,KPA 0628,General Question,Resolved,Elizabethside
+05/02/2024,08:16:56,Caller 41,KMa 2443,Booking,Escalated,Miguelport
+27/02/2024,01:30:23,Caller 2,KZA 5924,Payment Issue,Pending,South Brandon
+04/01/2024,20:47:12,Caller 29,KzZ 4638,Car Wash Inquiry,Resolved,East Heather
+26/02/2024,08:35:21,Caller 1,KvH 8759,Car Wash Inquiry,Pending,Danielleshire
+15/01/2023,04:25:33,Caller 17,Kcm 8587,General Question,No Action Needed,Jacksonland
+24/04/2023,22:17:27,Caller 3,Kan 2128,Car Wash Inquiry,Escalated,South Brandon
+01/04/2023,20:35:16,Caller 46,KrJ 0089,General Question,No Action Needed,Port Michelle
+19/02/2024,11:45:00,Caller 18,KZm 3719,Payment Issue,No Action Needed,Carterfurt
+29/03/2024,08:28:14,Caller 79,KXL 9705,Car Wash Inquiry,Escalated,Joelborough
+20/09/2023,00:44:34,Caller 49,KHF 9348,Booking,Resolved,Christinaport
+09/09/2023,08:11:42,Caller 30,KJe 9940,Payment Issue,Resolved,West Sandrachester
+12/10/2023,18:47:21,Caller 29,KgW 8325,Car Wash Inquiry,Escalated,Lake Michelleview
+21/11/2023,19:36:55,Caller 12,Kbl 8955,General Question,Escalated,Lake Lisa
+18/03/2024,05:47:29,Caller 3,KyQ 6923,Payment Issue,Escalated,Lake Noahmouth
+10/04/2024,10:37:00,Caller 33,KTf 3952,Car Wash Inquiry,Escalated,Zamoraview
+22/01/2024,18:46:14,Caller 5,KUf 2891,Car Wash Inquiry,No Action Needed,Carterhaven
+22/12/2023,13:41:38,Caller 58,KqC 2249,Booking,Escalated,Lake Antonio

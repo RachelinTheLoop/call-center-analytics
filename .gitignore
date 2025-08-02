@@ -1,5 +1,8 @@
-# Ignore all CSV files
+# # Ignore all CSV files
 *.csv
+
+# But do NOT ignore dummy_customer_care_data.csv
+!dummy_customer_care_data.csv
 
 # Ignore all Excel files
 *.xlsx
