@@ -1,0 +1,28 @@
+# Treat all Jupyter notebooks as binary to prevent merge conflicts
+*.ipynb binary
+
+# Normalize line endings for all text files
+* text=auto
+
+# Explicitly define line endings for common file types
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Set UTF-8 encoding for readable files
+*.py text working-tree-encoding=UTF-8
+*.md text working-tree-encoding=UTF-8
+*.csv text working-tree-encoding=UTF-8
+
+# Mark images as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# HTML visualizations
+*.html text eol=lf
