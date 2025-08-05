@@ -1,9 +1,13 @@
 ![](Customer_banner.png)
+
 # 📞 Premium Carwash Customer Care Call Analysis
 
-Author: Rachel Odhiambo
+---
+
+**Author: Rachel Odhiambo**
 
 ## 🧠 Introduction
+---
 This project delivers a comprehensive analysis of customer service call records from a **busy, premium 10-branch carwash business** that served hundreds of customers weekly. As the **customer care representative**, I personally received and documented each call through the official **toll-free line**, maintained monthly logs, and later structured this data for analytical purposes.
 Our toll-free customer care line handled everything from inquiries, bookings and service follow-ups to urgent complaints — reflecting the high expectations of our loyal, quality-conscious clientele.
 
