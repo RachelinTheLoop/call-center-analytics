@@ -2,11 +2,9 @@
 
 # 📞 Premium Carwash Customer Care Call Analysis
 
-
-
 **Author: Rachel Odhiambo**
 
-## 🧠 Introduction
+##  Introduction
 
 This project delivers a comprehensive analysis of customer service call records from a **busy, premium 10-branch carwash business** that served hundreds of customers weekly. As the **customer care representative**, I personally received and documented each call through the official **toll-free line**, maintained monthly logs, and later structured this data for analytical purposes.
 Our toll-free customer care line handled everything from inquiries, bookings and service follow-ups to urgent complaints — reflecting the high expectations of our loyal, quality-conscious clientele.
@@ -15,7 +13,7 @@ Despite this daily volume of interactions, much of the service data remained uns
 
 ---
 
-## 🚨 Business Problem
+##  Business Problem
 
 Customer care centers are crucial touchpoints — but often lack structured feedback loops.
 
@@ -53,9 +51,11 @@ To transform raw call logs into **actionable, data-driven business intelligence*
 
 ## 🌍 Real-World Context
 
-This project is based on my **firsthand experience** in customer support for a 10-branch carwash business in Kenya. The call center received **hundreds of calls monthly** — mainly inquiries, follow-ups, complaints, and booking requests.
+This project mirrors real-world strategies used by major Kenyan companies to improve customer care:
+Safaricom leverages data-driven training and CRM tools to reduce repeat calls and enhance agent performance.
+KCB Bank implemented a centralized complaint-handling system with clear follow-up steps, leading to better customer retention.
 
-I manually logged this data during my time in the customer care department. While only a **dummy dataset** is shared publicly, the insights reflect the true nature of service patterns, customer behavior, and operational gaps observed in practice.
+By analyzing carwash call data, this project applies similar principles—turning service call records into actionable insights for staff training, issue tracking, and outlet-specific improvements.
 
 ---
 
