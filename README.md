@@ -1,12 +1,11 @@
-
+![](Customer_banner.png)
 # 📞 Premium Carwash Customer Care Call Analysis
 
-This project delivers a comprehensive analysis of customer service call records from a multi-branch premium carwash business in Kenya. As the **customer care representative**, I personally received and documented each call through the official **toll-free line**, maintained monthly logs, and later structured this data for analytical purposes.
-
+Author: Rachel Odhiambo
 
 ## 🧠 Introduction
-
-This project is based on real-world data from a **busy, premium 10-branch carwash business** that served hundreds of customers weekly. As a trusted point of contact, our toll-free customer care line handled everything from bookings and service follow-ups to urgent complaints — reflecting the high expectations of our loyal, quality-conscious clientele.
+This project delivers a comprehensive analysis of customer service call records from a **busy, premium 10-branch carwash business** that served hundreds of customers weekly. As the **customer care representative**, I personally received and documented each call through the official **toll-free line**, maintained monthly logs, and later structured this data for analytical purposes.
+Our toll-free customer care line handled everything from inquiries, bookings and service follow-ups to urgent complaints — reflecting the high expectations of our loyal, quality-conscious clientele.
 
 Despite this daily volume of interactions, much of the service data remained unstructured and underutilized. This analysis transforms **two years of manually documented call records** into clear, actionable business insights — helping inform staffing, improve service delivery, and support smarter branch-level decisions.
 
@@ -60,7 +59,7 @@ I manually logged this data during my time in the customer care department. Whil
 
 | Attribute               | Description |
 |------------------------|-------------|
-| **Duration**           | Jan 2022 – Dec 2023 |
+| **Duration**           | Nov 2021 – Aug 2023 |
 | **Rows (real data)**   | 2,122 |
 | **Dummy Shared File**  | `dummy_customer_care_data.csv` |
 
@@ -110,18 +109,22 @@ I manually logged this data during my time in the customer care department. Whil
 ## 📈 Visual Insights
 
 ### 🔟 Top 10 Reasons for Customer Calls
-![Top Reasons](Output/top_call_reasons_green.png)
+![Lollipop Reasons](Output/lollipop_top_reasons_green.png)
 
-### 🔁 Top 10 Agent Responses
-![Top Responses](Output/top_responses_green.png)
+### 🍭 Caller Insights
+![Caller Insights](Output/Caller_Alias_Insights.png)  
 
-### 🍭 Lollipop Views
-![Lollipop Reasons](Output/lollipop_top_reasons_green.png)  
-![Lollipop Responses](Output/lollipop_top_responses_green.png)
+### 🍭 Time Based Call Insights
+![Insights](Output/time_based_call_analysis.png)  
+
+### 🍭 Monthly Call Trends
+![Monthly Insights](Output/monthly_call_trends.png)  
+
+### 🍭 Location Based Insights
+![location Insights](Output/location_based_analysis.png)
 
 ### 🌞 Sunburst: Reasons → Responses
-📂 [View Interactive HTML](Output/simplified_sunburst.html)  
-🖼️ ![Sunburst PNG](Output/sunburst_top5_reasons_top3_responses.png)
+ ![Sunburst JPG](Output/sunburst_reason_response.jpg)
 
 
 
